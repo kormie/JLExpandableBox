@@ -1,4 +1,4 @@
-#import "JLExpandableCellRow"
+#import "JLExpandableCellRow.h"
 
 
 @implementation JLExpandableCellRow {
