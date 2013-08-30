@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JLExpandableBox"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "A short description of JLExpandableBox."
 
   s.description  = <<-DESC
@@ -75,7 +75,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/kormie/JLExpandableBox.git", :tag => "0.0.3" }
+  s.source       = { :git => "http://github.com/kormie/JLExpandableBox.git", :tag => "0.0.4" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
