@@ -7,21 +7,29 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0166385517D038B7002EF67D /* JLExpandableCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLExpandableCell.h; sourceTree = "<group>"; };
-		0166385617D038B7002EF67D /* JLExpandableCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLExpandableCell.m; sourceTree = "<group>"; };
-		0166385717D0394E002EF67D /* JLExpandableCellRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLExpandableCellRow.h; sourceTree = "<group>"; };
-		0166385817D0394E002EF67D /* JLExpandableCellRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLExpandableCellRow.m; sourceTree = "<group>"; };
+		0166385A17D03D66002EF67D /* JLExpandableCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLExpandableCell.h; sourceTree = "<group>"; };
+		0166385B17D03D66002EF67D /* JLExpandableCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLExpandableCell.m; sourceTree = "<group>"; };
+		0166385C17D03D66002EF67D /* JLExpandableCellRow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLExpandableCellRow.h; sourceTree = "<group>"; };
+		0166385D17D03D66002EF67D /* JLExpandableCellRow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JLExpandableCellRow.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		0166384E17D0388F002EF67D = {
 			isa = PBXGroup;
 			children = (
-				0166385517D038B7002EF67D /* JLExpandableCell.h */,
-				0166385617D038B7002EF67D /* JLExpandableCell.m */,
-				0166385717D0394E002EF67D /* JLExpandableCellRow.h */,
-				0166385817D0394E002EF67D /* JLExpandableCellRow.m */,
+				0166385917D03D66002EF67D /* Classes */,
 			);
+			sourceTree = "<group>";
+		};
+		0166385917D03D66002EF67D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0166385A17D03D66002EF67D /* JLExpandableCell.h */,
+				0166385B17D03D66002EF67D /* JLExpandableCell.m */,
+				0166385C17D03D66002EF67D /* JLExpandableCellRow.h */,
+				0166385D17D03D66002EF67D /* JLExpandableCellRow.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

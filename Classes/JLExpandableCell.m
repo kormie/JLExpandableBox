@@ -15,8 +15,8 @@
     if (self) {
         self.frame = CGRectMake(10, yPoint, 300, 10);
         // Default View Stylings
-        self.innerColor = [UIColor colorWithHexString:@"e7ebee" alpha:1.0];
-        self.wrapperColor = [UIColor colorWithHexString:@"a7c2d2" alpha:1.0];
+        self.innerColor = [UIColor colorWithRed:231/255.0f green:235/255.0f blue:238/255.0f alpha:1.0f];
+        self.wrapperColor = [UIColor colorWithRed:167/255.0f green:194/255.0f blue:210/255.0f alpha:1.0f];
         self.corner_radius = 10;
         self.backgroundColor = self.wrapperColor;
         self.layer.cornerRadius = self.corner_radius;
