@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "JLExpandableBox"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of JLExpandableBox."
 
   s.description  = <<-DESC
@@ -61,7 +61,7 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  # s.platform     = :ios
+  s.platform     = :ios
   # s.platform     = :ios, '5.0'
 
   #  When using multiple platforms
@@ -75,7 +75,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/kormie/JLExpandableBox.git", :tag => "0.0.1" }
+  s.source       = { :git => "http://github.com/kormie/JLExpandableBox.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
